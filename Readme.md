@@ -1,2 +1,2 @@
-#Install requirements on requirements.txt                                                                             
-pip install -r requirements.txt
+#Install requirements on required.txt                                                                             
+pip install -r required.txt
