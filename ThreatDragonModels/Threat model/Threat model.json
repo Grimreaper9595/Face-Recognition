@@ -1,0 +1,16 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "Threat model",
+    "owner": "Rushil Shrestha",
+    "description": "The system is designed to take a picture of a person and train an AI model to detect the face and mark an attendance. The system uses python and its library (openCV)",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
